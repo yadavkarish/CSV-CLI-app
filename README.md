@@ -22,7 +22,7 @@ A command-line application to manage CSV files by allowing you to load, query, s
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/csv-manager-cli.git
+   git clone https://github.com/yadavkarish/CSV-CLI-app
 
 ## File Structure
 
